@@ -39,14 +39,10 @@
 
 > **PROFESSIONAL EXPERIENCE:**
 >
-> **H5 Technologies -- Software Development Engineer Intern June 2020 --
+> **H5 Technologies -- Software Development Engineer June 2020 --
 > Present**
 >
-> Working on a highly scalable search engine. My work involves
-> implementing a search engine feature to narrow the document result set
-> using Parts-of-Speech tagging, Phrase Identification and Clustering
-> algorithms. Technology stack involves C\#, MySQL, Stanford NLP, MATLAB
-> for development and Docker, Jenkins for deployment.
+> Working on a highly scalable eDiscovery review product where my contribution is on indexing documents with proprietary indexing methodologies including but not limited to part-of-speech tagging, phrase identification, topic extraction and near duplication. Technology stack involves C#, MS SQL, NLP Toolkit, MATLAB for development and Docker, Jenkins for deployment.
 >
 > **Amazon Lab126 -- Application Engineer March 2019 -- June 2020**
 >
