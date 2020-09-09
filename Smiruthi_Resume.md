@@ -6,23 +6,6 @@
 >
 > Immigration Status: L2 EAD. **No Sponsorship Required**
 
-> **OBJECTIVE:**
->
-> Looking for entry or mid-level software engineering positions in a
-> fast-paced, dynamic and supportive environment.
-
-> **EDUCATION:**
->
-> **MS in Electrical and Computer Engineering (CGPA 3.5/4.0) Graduated -
-> May 2017** 
->
->University of Illinois, Chicago
->
-> **BE Electronics and Communications Engineering (CGPA 7.89/10.0)
-> Graduated - May 2014** 
->
->Visvesvaraya Technological University,Bangalore, India
-
 > **TECHNICAL SKILLS:**
 >
 >**Programming Languages:** C\#, JAVA, MATLAB, Bash scripting
@@ -46,28 +29,38 @@
 >
 > **Amazon Lab126 -- Application Engineer March 2019 -- June 2020**
 >
-> Worked in the Whole-Home Audio feature of Alexa. My responsibilities
-> include
+>   Developed monitoring alarms and logging scripts with Amazon Ion to achieve operational excellence. Conducted
+weekly Operational Excellence meetings as a result of which issues were identified earlier in turn providing
+great customer experience
 >
->   Read and understand complex application code to debug and make code fixes (in Java) to resolve issues. Developing monitoring, alerting and logging scripts with Amazon Ion. Developing tools and bash scripts for task automation.
+>   Resolved customer issues by debugging and performing code fixes. This ensures less incoming customer issues
+which decreased operational load for the team
 >
->   CI/CD pipelines, configuration management and change management for software product releases and successful deployments. Have worked extensively in the internal versions of AWS CodePipeline (Continuous Integration), AWS CodeDeploy (Continuous Deployment).
+>   Maintained and managed CI/CD pipeline for Amazon Alexa’s Whole-Home Audio feature.
 >
->   Interface with product, operations and technical teams to ensure that the product delivered is of highest standards and continue to raise the bar in post-deployment support. Maintaining operational excellence by continuously monitoring/diving deep on production metrics. Provide engineering support of our incoming tickets, including extensive troubleshooting and debugging, with responsibilities covering multiple product lines.
+>   Managed features releases and new code rollouts for the service. Monitoring the impact of the new release in
+stages to ensure issues were identified before causing significant customer impact.
+>
+>   Conducted load testing for high scale events to ensure the best customer experience while balancing the high
+incoming traffic to keep the application running. 
+>
+>   Improved operational excellence and reduced incoming customer tickets as a result of which the load for on-call
+engineers significantly reduced.
 >
 > **Amazon Web Services -- Cloud Support Associate June 2017 -- Feb 2019**
 >
-> Provided solutions to customers using AWS services as well as 3rd
-> party products that may interact with AWS services.
->
->   Supported multiple AWS Services including but not limited to AWS CloudFormation, AWS Lambda, AWS IoT, AWS EC2, AWS APIGateway, AWS Connect, AWS DynamoDB, AWS S3.
+>   Supported multiple AWS Services including but not limited to AWS CloudFormation, AWS Lambda, AWS IoT,
+AWS EC2, AWS APIGateway, AWS Connect, AWS DynamoDB, AWS S3.
 >
 >   Experience in Networking (DNS, VPC, Load Balancing). Experience in Serverless architecture and Development (Lambda, Api Gateway, SNS, SQS, Cognito). Experience in Programming / scripting (Java, Python)
+>
+>   Provided solutions to customers integrating their applications with AWS Cloud platform. 
 >
 > **College of Business Administration, UIC -- Graduate Assistant
 > September 2016 -- May 2017**
 >
->   Web developer responsible for the development and maintenance of the UIC Business connect website (https://businessconnect.uic.edu/) using HTML, JSS, JQuery, Drupal, CSS.
+>   Developed and maintained UIC Business connect website (https://businessconnect.uic.edu/) using HTML, JSS,
+JQuery, Drupal, CSS.
 >
 >   Provide IT support to the Faculty and Staff of the College of Business. Installing Operating Systems, driver software, troubleshooting technical issues. Administering Active Directory for the Business College, provide technical support for various events.
 >
@@ -81,6 +74,18 @@
 > -- July 2015**
 >
 > Worked with Core JAVA to develop customer specific applications. Worked in MySQL for creating databases to write required queries to extract data. Created front end interfaces using JavaScript, HTML, CSS and JSP's connected them with backend database using JDBC.
+
+> **EDUCATION:**
+>
+> **MS in Electrical and Computer Engineering (CGPA 3.5/4.0) Graduated -
+> May 2017** 
+>
+>University of Illinois, Chicago
+>
+> **BE Electronics and Communications Engineering (CGPA 7.89/10.0)
+> Graduated - May 2014** 
+>
+>Visvesvaraya Technological University,Bangalore, India
 
 > **CERTIFICATIONS:**
 >
