@@ -90,7 +90,7 @@ JQuery, Drupal, CSS.
 > **CERTIFICATIONS:**
 >
 > **Kal Academy (Algorithms and Data Structures Bootcamp) June 2020 --
-> Present**
+> August 2020**
 >
 > **Amazon Web Services (AWS-Developer Associate) July 2016 -- July
 > 2018**
